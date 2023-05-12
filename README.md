@@ -23,15 +23,18 @@ By default, the site will be accessible at http://localhost:8085. You can change
 The script also supports the following subcommands:
 
 #### 1.	Stop 
-     To stop the Docker containers for the site, run:
-     $ sudo ./wordpress-setup.sh SITE_NAME stop
+   To stop the Docker containers for the site, run:
+    
+    $ sudo ./wordpress-setup.sh SITE_NAME stop
 
 
 
 #### 2.	Start
-     To start the Docker containers for the site, run:
+   To start the Docker containers for the site, run:
+   
      $ sudo ./wordpress-setup.sh SITE_NAME start
 
 #### 3.	Delete
-     To delete the site and its associated Docker containers and files, run:
-     $ sudo ./wordpress-setup.sh SITE_NAME delete
+   To delete the site and its associated Docker containers and files, run:
+   
+    $ sudo ./wordpress-setup.sh SITE_NAME delete
