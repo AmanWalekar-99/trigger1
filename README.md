@@ -1,4 +1,4 @@
-## Deploying Wordpress site in LEMP stack using Docker
+## Deploying Wordpress site in LEMP stack on Docker container
 
    This is a Bash script to set up a new WordPress site using Docker containers for the LEMP stack. The script creates a new directory for the site, generates the necessary configuration files for    the Docker containers, and launches the containers using Docker Compose.
 
